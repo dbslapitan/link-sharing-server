@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "GTG8cDLP18Kn0luIRksPMfCPRzWLHcC/3OoCSRaYRKU=",
+  "Source": "LinkSharing.API",
+  "BasePath": "_content/LinkSharing.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\LinkSharing.API.props" />
+</Project>
